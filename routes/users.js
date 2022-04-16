@@ -10,7 +10,7 @@ router.post('/add', userController.addUser);
 router.get('/list', userController.listUser);
 
 // Adding user.
-router.get('/get', userController.getUser);
+router.get('/get/userId', userController.getUser);
 
 // Adding user.
 router.put('/update', userController.updateUser);
