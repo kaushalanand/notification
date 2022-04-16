@@ -1,3 +1,3 @@
 {
-    "mongoURI":"mongodb://localhost:27017/Test_Case_Management"
+    "mongoURI":"mongodb://localhost:27017/Notification"
 }   
